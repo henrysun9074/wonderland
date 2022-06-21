@@ -1,1 +1,12 @@
-# A caucus-race and a long tale
+# Test Chp 3
+
+```{r}
+install.packages("reticulate", repos = "http://cran.us.r-project.org")
+```
+
+```{python}
+i = []
+for x in range(10):
+  i.append(x)
+  print(i)
+```
